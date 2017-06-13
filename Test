@@ -1,0 +1,9 @@
+public class Test {
+public class void main(String[] args){
+double amount = 199;
+String title = "Przelew do ZUS";
+Przelew przelew = new Przelew(title,amount);
+przelew.wypiszDanePrzelewu();
+}
+}
+
