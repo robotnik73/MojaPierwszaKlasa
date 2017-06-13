@@ -1,4 +1,4 @@
-public class printWireTransfer {
+public class wireTransfer {
 
   public static void main(String[] args)
   {System.out.println("Dane Przelewu:");}
